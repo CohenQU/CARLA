@@ -1,7 +1,7 @@
 # CARLA
 UWM CARLA - Planning Group 2021 Fall
 ## Task 1: Longitudinal and Lateral Control of Vehicles
-
+- Control the throttle, brake, and steer of the vehicle to make the vehicle drive along a list of waypoints.
 
 ## Task 2: Deep Reinforcement Learning (DQN) Study
 - Learn DQN.
